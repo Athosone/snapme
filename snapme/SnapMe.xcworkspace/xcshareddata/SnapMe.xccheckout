@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>48A66A5A-FC24-44F7-9F42-6FA9929919B1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SnapMe</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FD5E8BD0213F7DA9587E28CC7C697BE2BD43CF4B</key>
+		<string>https://bitbucket.org/rom184/snapme.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SnapMe.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FD5E8BD0213F7DA9587E28CC7C697BE2BD43CF4B</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/rom184/snapme.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FD5E8BD0213F7DA9587E28CC7C697BE2BD43CF4B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FD5E8BD0213F7DA9587E28CC7C697BE2BD43CF4B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>snapme</string>
+		</dict>
+	</array>
+</dict>
+</plist>
